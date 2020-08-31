@@ -5,7 +5,7 @@ date:   2020-08-30 17:09:00
 categories: Git; Comandos
 ---
 
-# Git - Comandos básicos
+
 
 Trata-se de mera compilação de comandos básicos para o manejo diário do Git, de uso pessoal para minhas consultas rápidas.
 
