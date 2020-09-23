@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Quando implementar o Parcelable ou o Serializable?"
-date: 2020-09-05 17:09:00
-categories: Java; Aplicações; App; Parcelable; Serializable
+title:  "Quando implementar o Parcelable ou o Serializable?"
+date:  2020-09-05 17:09:00
+categories: Java; Aplicações; Parcelable; Serializable
 ---
 
 
