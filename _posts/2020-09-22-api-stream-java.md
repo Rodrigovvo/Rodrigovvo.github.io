@@ -2,10 +2,10 @@
 layout: post
 title:  "Api Stream do Java'"
 date:  2020-09-22 19:02:00
-categories: Java; Api; Stream; Programação
+categories: Java Api Stream Programação
 ---
 
-
+A Stream é uma classe do pacote `Package java.util.stream`.
 
 ## API STREAM DO JAVA
 
