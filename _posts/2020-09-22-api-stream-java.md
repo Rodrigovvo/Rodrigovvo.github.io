@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Api Stream do Java'"
+title:  "Api Stream do Java"
 date:  2020-09-22 19:02:00
 categories: Java Api Stream Programação
 ---
