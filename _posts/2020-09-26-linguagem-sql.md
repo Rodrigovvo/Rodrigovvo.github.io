@@ -5,13 +5,13 @@ date:  2020-09-26 19:02:00
 categories: SQL SGBD MySQL Banco-de-Dados
 ---
 
-## A linguagem SQL
-
 `SQL: Linguagem de Consulta Estruturada`
 
 `inglês: SQL - Structured Query Language `
 
 `Uso da SGBD MySQL`
+
+## A linguagem SQL
 
 ### SQL
 

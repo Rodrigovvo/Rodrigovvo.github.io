@@ -5,15 +5,13 @@ date:  2020-09-10 17:09:00
 categories: Java Aplicações Parcelable Serializable
 ---
 
-
-
-## Quando implementar o Parcelable ou o Serializable?
-
 Baseado na resposta do Stackoverflow feita pelo usuário **emanuelsn**
 
 [Stackoverflow]: https://pt.stackoverflow.com/questions/38492/quando-e-como-implementar-o-parcelable-vs-serializable/38509#38509
 
 
+
+## Quando implementar o Parcelable ou o Serializable?
 
 Após muito tempo utilizando a implementação Serializable nas minhas classes na plataforma Java(Android), descobri o Parcelable, mas fiquei na dúvida em relação as seguintes questões abaixo:
 
