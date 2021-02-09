@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rodrigovvo.github.io
+Token: 297fe7d39554f4bcc36f0737627ca94287b9583fee2db8f22c5ed696c7ae3e73
