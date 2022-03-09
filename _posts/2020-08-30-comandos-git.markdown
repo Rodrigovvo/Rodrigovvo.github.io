@@ -88,14 +88,14 @@ Para atualizar o repositório local com a versão mais recente do repositório r
 Você pode obter o id de commit utilizando o seguinte comando:
 `git log`
 
-Utilizaremos os primeiros caracteres do id de commit para criar a Tag
+Utilizo os primeiros caracteres do id de commit para criar a Tag
 
 ### 7.2. Criando a Tag
 
 Pode-se criar uma Tag executando o seguinte comando:
 `git tag <nom_da_tag> <primeiros_chars_do_id_do_Log>`
 
-Por padrão utilizarei os primeiros 10 números mas pode-se também usar menos caracteres do id, contudo é necessário garantir que seja uma chave única.
+Por padrão uso os primeiros 10 números mas pode-se também usar menos caracteres do id, contudo é necessário garantir que seja uma chave única.
 
 
 

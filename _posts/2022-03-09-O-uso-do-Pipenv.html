@@ -1,0 +1,48 @@
+---
+layout: post
+title:  Usando o Pipenv
+date:   2022-03-09 18:20:00
+---
+<span><strong>O uso pipenv e seus benefícios aos seus/meus projeto</strong></span>
+<br>
+<b> 
+    Post dedicado à implementação e uso do pipenv. 
+</b>
+<p> 
+    Bom, primeiro é interessando que explique o que se trata a ferramenta chamada <i>pipenv</i>,
+    que é, em essência, utilizada para para criar um ambiente virtual e um utilitário para instalação de pacotes, 
+    gerenciamento de ambientes virtuais (pyenv) e possui todos os comandos associados às bibliotecas utilizadas.
+</p>
+<p>
+    Basicamente, o pipenv oferece ferramentas similiares ao pip e a virtualenv. E, como benefício explícito
+    em relação às duas ferramentas, verifica-se que o pipenv não sofre com problemas com eventuais atualizações
+    da lingugem python, como a descrita pelo Arth Tyagi no seu <a href="https://dev.to/arthtyagi/why-i-think-pipenv-is-better-than-venv-and-how-to-get-started-with-it-2hcd">post</a> 
+</p>
+<p>
+    O próprio fato de você não neceissatar do uso do pip e da virtualenv separadamente, é um grande trunfo do Pipenv, além disso,
+    a ferramenta fornece uma árvore de dependências (<i>dependency graph </i>), para melhor controle de dependências do projeto.
+</p>
+
+<h3>O Uso do Pipenv</h3>
+<p>Primeiro e antes de tudo, vamos começar lendo a <a href="https://pipenv.pypa.io/en/latest/">documentação</a></p>.
+
+
+
+<h4>A partir disso selecioneu alguns comandos básicos para se trabalhar com o pipenv </h4>
+
+<p>Instalar o Pipenv</p><br>
+<code>pip3(ou pip) install pipenv</code><br>
+
+<p>Para ativar o enviroment: </p><br>
+<code>pipenv shell</code><br>
+
+<p><strong>Exemplo como instalar o pacote no <strong>ambiente</strong> </strong></p>
+<code>pipenv install **package_name**</code>
+<code>pipenv install django</code>
+
+<p> Através do pipenv é possível executar os comandos pip, como por exemplo:</p><br>
+<code>pipenv run pip freeze</code><br>
+<code>pipenv run pip freeze > requirements.txt</code><br>
+
+<p>Do mesmo modo, é possível instalar os requeriments</p><br>
+<code>pipenv install -r requirements.txt</code><br>
